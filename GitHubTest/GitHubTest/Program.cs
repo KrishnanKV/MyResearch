@@ -10,7 +10,7 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My first app in gitHub");
+            Console.WriteLine("My first .net app in gitHub");
             Console.ReadLine();
         }
     }
